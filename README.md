@@ -32,7 +32,7 @@ This kit uses the **Golive.host Bharatpe API** to verify the status of UPI payme
 
 - **API Name**: QR Code Generation API
 - **Endpoint**: `https://api.golive.host/Generator/QR/v3/`
-- **Documentation**: [QR Code API Docs](https://api.golive.host/Generator/QR/v3_docs/)
+- **Documentation**: [QR Code API Docs](https://api.golive.host/Generator/QR/v3_docs)
 
 ## File Structure
 
